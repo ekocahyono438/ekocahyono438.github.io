@@ -1,0 +1,15 @@
+.body {
+  min-height: 2000px;
+  background-color: blue;
+}
+.jumbotron {
+  padding: 5rem 1rem;
+  background-color: #e2edff;
+}
+.col h2 {
+  padding-bottom: 2rem 1rem;
+}
+.section {
+  padding: 5rem;
+}
+
